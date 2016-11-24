@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{EAF909A5-FA59-4C3D-9431-0FCC20D5BCF9}") = "KestoG_1_4_Moscow", "KestoG_1_4_Moscow.icproj", "{CC5901A8-1D85-4E41-BB75-55CAE786BC6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC5901A8-1D85-4E41-BB75-55CAE786BC6A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CC5901A8-1D85-4E41-BB75-55CAE786BC6A}.Debug|Win32.Build.0 = Debug|Win32
+		{CC5901A8-1D85-4E41-BB75-55CAE786BC6A}.Release|Win32.ActiveCfg = Release|Win32
+		{CC5901A8-1D85-4E41-BB75-55CAE786BC6A}.Release|Win32.Build.0 = Release|Win32
+		{242B640F-467C-4C1A-8BE2-EA4116800235}.Release|Win32.Build.0 = Release|Win32
+		{242B640F-467C-4C1A-8BE2-EA4116800235}.Release|Win32.ActiveCfg = Release|Win32
+		{242B640F-467C-4C1A-8BE2-EA4116800235}.Debug|Win32.Build.0 = Debug|Win32
+		{242B640F-467C-4C1A-8BE2-EA4116800235}.Debug|Win32.ActiveCfg = Debug|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
